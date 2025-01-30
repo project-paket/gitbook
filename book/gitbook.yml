@@ -1,0 +1,15 @@
+root: .
+structure:
+  languages: true
+  readme: README.md
+  summary: SUMMARY.md
+  glossary: GLOSSARY.md
+  ignore: []
+plugins: []
+links:
+  - title: "English"
+    url: "./en/"
+  - title: "Русский"
+    url: "./ru/"
+  - title: "Español"
+    url: "./fr/"
